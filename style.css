@@ -79,6 +79,51 @@ section h2 {
 .project p {
     color: #666;
 }
+.project1 {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project1 h3 {
+    color: #333;
+}
+
+.project1 p {
+    color: #666;
+}
+.project2{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project2 h3 {
+    color: #333;
+}
+
+.project2 p {
+    color: #666;
+}
+.project3 {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project3 h3 {
+    color: #333;
+}
+
+.project3 p {
+    color: #666;
+}
 #education {
     padding: 20px;
 }
